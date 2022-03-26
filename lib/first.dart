@@ -298,7 +298,6 @@ class ListvievState extends State<Listviev> {
                   height: 320,
                   autoPlay: true,
                    //initialPage: 0,
-                  // enableInfiniteScroll: true,
                    enlargeCenterPage: true,
                    enlargeStrategy: CenterPageEnlargeStrategy.height,
                   //viewportFraction: 1,
